@@ -1,0 +1,2 @@
+*** Settings ***
+Documentation     It is a automation project for UMR Portals SPA using robot framework... Titu

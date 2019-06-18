@@ -1,0 +1,2 @@
+*** Settings ***
+Documentation     This is a test suite to test patient search... Titu

@@ -1,0 +1,2 @@
+*** Settings ***
+Documentation     This is the test suite for valid and invalid login of UMR Portals SPA with different test cases... Titu
